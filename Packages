@@ -1,15 +1,62 @@
-Package: com.phucdo.XiguaUI
-Version: 1.0
+Package: com.sago.TiktokDark
+Version: 1.87.1
 Architecture: iphoneos-arm64
-Maintainer: Phuc Do
-Filename: ./debfiles/com.phucdo.XiguaUI_1.0_iphoneos-arm64.deb
-Size: 37831772
-MD5sum: 61c7b000565fd8f2664d5660f6b71f91
-SHA1: 63796a7852564502f08bdbc556575f166cdaaa90
-SHA256: 26e456ae5c87a7f20eb1a7a436604494148d2c3931005cfb0fb98f61fd62b799
-Section: Themes
-Description: iOS UI.
-Author: Unknown
-Icon: https://dobabaophuc1706.github.io/repo/package/Themes/icon.png
-Name: Xigua UI
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debfiles/TikTokDark.deb
+Size: 83076
+MD5sum: 60ad85cdfe82a461322668fd0fba705a
+SHA1: bfb21009f738a79340805f7c67f42ed2b199174d
+SHA256: e7f03a81ad81b3e88f03d71363841fedcaafad1015e31673e8c657e189d83045
+Section: Tweaks
+Description: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
+Author: Sago
+Depiction: TiktokDark
+Name: TikTok Dark (Xinafied-rootless)
+
+Package: com.sago.colorcodedlogs
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: Sago Repo
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debfiles/colorcodedlogs.deb
+Size: 4836
+MD5sum: 93cfaeb9bd50e4d88867d5315fa4571e
+SHA1: d41853f4ac7fd008c3fc00e4e616900f0c621887
+SHA256: 12c031e1185d87ddaabc7571f84080b0d7a7f6ec914773755fffe04a9940ca09
+Section: Tweaks
+Description: Color-coded recent MobilePhone app logs!
+Author: Sago
+Name: ColorCodedLogs
+
+Package: com.sago.storeswitcher
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: Sago Repo
+Depends: firmware (>= 15), mobilesubstrate
+Filename: ./debfiles/storeswitcher.deb
+Size: 72992
+MD5sum: 1dbe9e2e1a59369259bd9b0b96b7c7ac
+SHA1: 8900c833ec5bce062c5a620cd4c336717625bbe0
+SHA256: 088c6ac3d8e1bc2d7f5117a50ad8c24ca20b822d719c2b4cbdd93b9c52c102e7
+Section: Tweaks
+Description: AppStore account switcher
+Author: Sago
+Depiction: AppStore account switcher
+Name: StoreSwitcher
+
+Package: com.sago.youtube.premium
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: Sago Repo
+Depends: mobile-substrate (>= 0.9.5000)
+Filename: ./debfiles/youtube.premium.deb
+Size: 4236
+MD5sum: bcee1e263851584560bd3c63e2f1790f
+SHA1: 91b2adaf7b7acb285e284e2990dcfb560e802a80
+SHA256: fa3988d8c6ffd3adcf25417f2008f5eaf209465100a2d0ce5e4d04c45cf3054c
+Section: Tweaks
+Description: YouTube No Ads & plays in the Background
+Author: Sago
+Name: YouTube Premium
 
