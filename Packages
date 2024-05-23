@@ -1,0 +1,85 @@
+Package: com.al3raQe.TiktokDark
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debfiles/TikTokDark.deb
+Size: 83220
+MD5sum: 2b171b4f25a2aa058d0a6f51aed59522
+SHA1: cb6ac5cb1ce26b7e9feb6ebd32bf93e60cd54430
+SHA256: bf1b5cd704fdb63e6f7dbf0d3dffb27e3ed9b6541dddcff6e6ecdafc8b1c52ef
+Section: Tweaks
+Description: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
+Author: al3raQe
+Depiction: TiktokDark
+Name: TikTok Dark (Xinafied-rootless)
+
+Package: com.al3raqe.storeswitcher
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: firmware (>= 15), mobilesubstrate
+Filename: ./debfiles/com.al3raqe.StoreSwitcher.deb
+Size: 73024
+MD5sum: 87edb5601bfc02ca5d2b89f62e2c3e6c
+SHA1: 38816d4a8e83783dc8ae9586c4755d3848d647c7
+SHA256: 282d1c77d57ce67da9c4d0a998c97c39c274605956cf2dffb1774a62017eedf9
+Section: Tweaks
+Description: AppStore account switcher
+Author: al3raQe
+Depiction: AppStore account switcher
+Name: StoreSwitcher
+
+Package: com.al3raqe.youtube.premium
+Version: 1.87.1
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/YouTube.Premium.deb
+Size: 4236
+MD5sum: c44081ba07d820154d745a5dee3c620f
+SHA1: fec59111165f5a57c6e90e47bf38125f0b31b3f4
+SHA256: 3d028e8f17bc8d208ca63f1be3e7736ff70cee116487d9c05432c15779e273a5
+Section: Tweaks
+Description: YouTube No Ads & plays in the Background
+Author: al3raQe
+Name: YouTube Premium
+
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debfiles/com.p2kdev.colorcodedlogs.deb
+Size: 4944
+MD5sum: 8f1bc8196607105981c5bc84acbe2731
+SHA1: 7a26d0ad0facd49627c9a191559c3bf0ed31dd22
+SHA256: 49c3ab4c03154d7ea4ee6a364860861921ae455b3404fd74beb154e041dc49d2
+Section: Tweaks
+Description: Color-coded recent MobilePhone app logs!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
+Name: ColorCodedLogs
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debfiles/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70006
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
