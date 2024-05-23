@@ -2,7 +2,8 @@ Origin: SagoRepo
 Label: SagoRepo
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm64e
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: SagoRepo
-Icon: file://RepoIcon.png
+Description: Repository
+   
