@@ -1,9 +1,8 @@
-Origin: SagoRepo
-Label: SagoRepo
+Origin: Sago's Repo ✨
+Label: Sago's Repo ✨
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: iOS
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Repository
-   
+Description: سورس من اجلك
