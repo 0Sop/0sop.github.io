@@ -1,3 +1,21 @@
+Package: byg.iosios.net.flex3beta.rootless.56
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Sago
+Depends: firmware (>= 9.0)
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.sago.flex3, flex3featurecatalog
+Filename: ./debfiles/byg.iosios.net.flex3beta.rootless.56_3.0_iphoneos-arm64.deb
+Size: 16810956
+MD5sum: 6f77bcbdfd463cbed4cb02324b3fbf74
+SHA1: fd4e159bd87a4d94460e149ad5d3de774234b6f9
+SHA256: 5557538e9a62516b034e79b0773d2e35dbfc22a3aaa5c739ae84dbc14f38a425
+Section: Flex
+Description: Flex 3 beta 56 for Dopamine & Palera1n by DXcool223Develop your own tweaks and share them on the Flex Community Cloud
+Author: Sago
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Flex 3 Beta Rootless
+Sponsor: Sago
+
 Package: com.sago.TiktokDark
 Version: 1.87.1
 Architecture: iphoneos-arm64
